@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "6ac1e7caf9294686",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c7f581bb8ac8ccc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5aabe8f78a89ef6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Display/Display__block.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc7969ad0e1428ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6611a809889b0b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4456a63993ec6619",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e218c7021a58026",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d555b31cf7fa32a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 340.5
+  },
+  "right": {
+    "id": "0fbe689a9dd9bf93",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f2d77c3e5c0bc78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a41df27ef8ff83ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Display/Display__block.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a1d8dd15a736c86f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Display/Display__block.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "68ffd45450e228e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0108362e8ae0b09f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Display/Display__block.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "4456a63993ec6619",
+  "lastOpenFiles": [
+    "Display/Display__flex.md",
+    "Display/Display__grid.md",
+    "Display/Display__inline.md",
+    "Display/Display__inline-block.md",
+    "Flex(FlexContainer)/Aline-items(수직축방향 정렬).md",
+    "Flex(FlexContainer)/Flex-direction (배치방향 설정).md",
+    "Flex(FlexContainer)/Flex-flow (배치방향, 줄넘김 설정을 한번에).md",
+    "Flex(FlexContainer)/Flex-wrap(줄넘김 처리 설정).md",
+    "Flex(FlexContainer)/Justify-content(메인축방향 정렬).md",
+    "Display/Display__block.md",
+    "첨부이미지/Pasted image 20231021050422.png",
+    "첨부이미지/Pasted image 20231021044833.png",
+    "Grid(GridContainer)",
+    "Grid(GridContainer)",
+    "첨부이미지/Pasted image 20231021041121.png",
+    "첨부이미지",
+    "첨부이미지/Pasted image 20231021043903.png",
+    "첨부이미지/Pasted image 20231021043815.png",
+    "첨부이미지/Pasted image 20231021043721.png",
+    "첨부이미지/Pasted image 20231021043630.png",
+    "첨부이미지/Pasted image 20231021043152.png",
+    "첨부이미지/Pasted image 20231021043109.png",
+    "첨부이미지/Pasted image 20231021043028.png",
+    "무제 파일.canvas",
+    "무제 파일 1.canvas",
+    "Flex(FlexContainer)",
+    "Display"
+  ]
+}
